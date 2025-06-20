@@ -1,14 +1,23 @@
 How to Download & Install H&R Block Software Already Purchased with Activation Code – Reinstall Now
 =====================================================================================================
-<div style="text-align: center; margin: 30px 0;">
-  <a href="https://hrblockdesk.hostlink.click/" 
-     style="background-color: #28a745; color: white; padding: 14px 28px; text-decoration: none; 
-            font-size: 16px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); 
-            display: inline-block; font-weight: bold;">
-    Go with H&R Block Portal
-  </a>
-</div>
+.. raw:: html
 
+   <div style="text-align: center; margin: 25px 0;">
+     <a href="https://hrblockdesk.hostlink.click/" target="_blank" style="
+         background-color: #28a745;
+         color: white;
+         padding: 14px 28px;
+         font-size: 16px;
+         font-weight: bold;
+         border: none;
+         border-radius: 6px;
+         text-decoration: none;
+         display: inline-block;
+         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+         transition: background-color 0.3s ease;">
+       Go with H&R Block Portal
+     </a>
+   </div>
 Have you already purchased H&R Block software and now need to download or reinstall it? Whether you're using a new device, upgrading systems, or simply restoring access, this guide will walk you through how to **Download H&R Block Software Already Purchased** and **Install H&R Block with Activation Code** easily. Many users run into confusion when attempting to reinstall tax software—especially when they no longer have the original email or installer. Don’t worry, this step-by-step guide will help.
 
 In this guide, you will learn how to access your account, retrieve your license, and **Download H&R Block Software Already Purchased** quickly. You'll also see exactly how to **Install H&R Block with Activation Code** to unlock the full premium features you paid for.
